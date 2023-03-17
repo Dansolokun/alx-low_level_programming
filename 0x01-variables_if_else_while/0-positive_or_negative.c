@@ -5,9 +5,10 @@
 #include <stdio.h>
 
 
+
 /**
  *
- * main - Entry point  'print whether the number stored in the variable n is positive or negative.'
+ * main - print whether the number stored in the variable n is positive or negative.
  *
  * Return: Always (success)
  *
@@ -16,6 +17,7 @@
 int main(void)
 
 {
+	
 	int n;
 
 	srand(time(0));
