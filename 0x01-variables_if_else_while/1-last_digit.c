@@ -1,12 +1,13 @@
+#include <stdio.h>
+
 #include <stdlib.h>
 
 #include <time.h>
 
-#include <stdio.h>
 
 /**
- * main - Determines the last digit
- *
+ * main - Determine  the last digit
+ * 
  * Return: Always 0 (Success)
  */
 
@@ -17,7 +18,7 @@ int main(void)
 
         srand(time(0));
         n = rand() - RAND_MAX / 2;
-	lasted = n % 10
+	lasted = n % 10;
 
         if (lasted > 5)
         {
