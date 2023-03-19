@@ -5,7 +5,7 @@
 #include <stdio.h>
 
 /**
- * main - program that prints all possible different combinations of three digits
+ * main - prints all possible different combinations of three digits
  *
  * Return: Always 0 (Success)
  */
@@ -17,7 +17,7 @@ int main(void)
 	
 	for (d = '0'; d < '9'; d++)
 	{
-
+	
 	for (p = d + 1; p <= '9'; p++)
 	{
 	
