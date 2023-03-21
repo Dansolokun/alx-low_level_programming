@@ -1,18 +1,18 @@
 #include "main.h"
 
 /**
- * _islower - Make alphabet lower
+ * _islower - Check for lower character
  *
- * Return: Always 0.
+ * Return: 1 for lower case character
  */
 
 int _islower(int c)
 
 {
-	
+
 	if (c >= 97 && c <= 122)
 	{
-	
+								
 	return(1);
 	}
 	return (0);
