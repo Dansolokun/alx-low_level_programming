@@ -2,8 +2,8 @@
 
 /**
  * main - Write a function that prints the alphabet in lowercase
- * 
- * Return: Always 0 (Success)
+ *
+ * Return: void
  */
 
 void print_alphabet(void)
