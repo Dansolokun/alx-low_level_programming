@@ -1,8 +1,8 @@
 #include <unistd.h>
 
 /**
- * main - Write a program that prints _putchar, followed by a new line
- *
+ * _putchar - Write a program that prints _putchar, followed by a new line
+ * @c: The value to be printed
  * Return: Always 0 (Success)
  */
 
