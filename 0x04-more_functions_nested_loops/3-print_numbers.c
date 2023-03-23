@@ -6,7 +6,7 @@
  * Return: The numbers since 0 to 9
  */
 
-void print_number (void)
+void print_numbers(void)
 
 {
 	
