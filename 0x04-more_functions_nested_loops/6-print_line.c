@@ -1,10 +1,11 @@
 #include "main.h"
 
 /**
- * main - check the code
- *
- * Return: Always 0.
+ * print_line - Draws a straight line according to parameter
+ *@n: The number of lines to draw
+ * Return: Empty
  */
+
 void print_line(int n)
 
 {
