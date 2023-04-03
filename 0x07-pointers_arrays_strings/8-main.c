@@ -6,7 +6,9 @@
  *
  * Return: Always 0.
  */
+
 int main(void)
+
 {
     int c3[3][3] = {
         {0, 1, 5},
