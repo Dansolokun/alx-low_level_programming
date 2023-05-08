@@ -35,6 +35,7 @@ char *create_buffer(char *file)
  */
 
 void close_file(int skd)
+
 {
 	int cop;
 
