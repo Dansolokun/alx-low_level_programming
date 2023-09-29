@@ -1,14 +1,12 @@
 #include "main.h"
 
 /**
- * To print_binary - Its prints a binary as same as a decimal number
- * @n: its prints a number in binary
+ * print_binary - it prints a  binary equivalent of decimal number
+ * @n: the number to print in binary
  */
 
 void print_binary(unsigned long int n)
-
 {
-
 	int skd, count = 0;
 	unsigned long int current;
 
@@ -26,5 +24,4 @@ void print_binary(unsigned long int n)
 	}
 	if (!count)
 		_putchar('0');
-
 }
